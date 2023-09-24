@@ -1,0 +1,3 @@
+my first git
+hello word
+how are you doing
